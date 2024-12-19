@@ -1,1 +1,3 @@
 Megint kezdem saját gépről
+
+Új sor commit után, local gépen
