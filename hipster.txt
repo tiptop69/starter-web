@@ -1,3 +1,5 @@
 Megint kezdem saját gépről
 
 Új sor commit után, local gépen
+Volt local commit 2az1ben és szerkesztjük u.azt az állományt.. 
+mi lesz fent a webwmen
