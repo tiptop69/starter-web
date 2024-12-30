@@ -1,3 +1,6 @@
+Ez már 29-én dél körül történik, minden feltöltve és nprakész, 
+de mégis csak hozzáadok sorokat.
+
 Megint kezdem saját gépről
 
 Új sor commit után, local gépen
