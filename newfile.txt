@@ -1,2 +1,0 @@
-Ez az ls-files parancs szemléltetéséhez
-létrehozott állomány.
